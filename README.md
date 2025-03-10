@@ -2,16 +2,11 @@
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 🚀 About Me
 
-🎓 Software Developer from Andhra Pradesh, India
-
-💻 Passionate about [mention your primary programming languages]
-
-🤖 Currently learning [mention any specific technologies or skills you're currently learning]
-
-🎯 Working on [mention any current projects or areas of focus]
-
-📖 [Mention any specific institutions or programs you're part of]
-
+🎓 Engineering Student at Koneru Lakshmaiah Education Foundation, Vijayawada
+📖 Student at Nxtwave CCBP 4.0 Academy
+🤖 Currently learning Machine Learning
+🎯 Working on React projects
+💻 Passionate about Full-Stack Web Development
 🌱 Enthusiastic about exploring new technologies
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
