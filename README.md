@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SRI-VARDHAN-ADIKI&theme=tokyonight)](https://git.io/streak-stats)
-[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical)](https://github.com/EtyalaRahul)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRI-VARDHAN-ADIKI&layout=compact&theme=tokyonight)](https://github.com/EtyalaRahul)  
+[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical)](https://github.com/SRI-VARDHAN-ADIKI)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRI-VARDHAN-ADIKI&layout=compact&theme=tokyonight)](https://github.com/SRI-VARDHAN-ADIKI)  
 
 
 🤝 Let's Connect
