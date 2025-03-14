@@ -18,8 +18,11 @@ ________________________________________________________________________________
 
 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SRI-VARDHAN-ADIKI&theme=tokyonight)](https://git.io/streak-stats)
-[![SriVardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical)](https://github.com/SRI-VARDHAN-ADIKI)  
+__________________________________
+[![SriVardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical)](https://github.com/SRI-VARDHAN-ADIKI) 
+__________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRI-VARDHAN-ADIKI&layout=compact&theme=tokyonight)](https://github.com/SRI-VARDHAN-ADIKI)  
+__________________________________
 
 
 🤝 Let's Connect
