@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=SRI-VARDHAN-ADIKI&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SRI-VARDHAN-ADIKI&theme=tokyonight)](https://git.io/streak-stats) 
 __________________________________
 [![SriVardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical)](https://github.com/SRI-VARDHAN-ADIKI) 
 __________________________________
