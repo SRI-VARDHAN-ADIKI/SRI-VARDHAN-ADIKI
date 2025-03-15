@@ -1,32 +1,66 @@
-👋 Hi, I'm @SRI-VARDHAN-ADIKI
-______________________________________________________________________________________________________________________________________________________________________________________________________
-🚀 About Me
+# Hi, I'm Saipraneeth 👋
 
-🎓 Engineering Student at Koneru Lakshmaiah Education Foundation, Vijayawada
-📖 Student at Nxtwave CCBP 4.0 Academy
-🤖 Currently learning Machine Learning
-🎯 Working on React projects
-💻 Passionate about Full-Stack Web Development
-🌱 Enthusiastic about exploring new technologies
-______________________________________________________________________________________________________________________________________________________________________________________________________
+## About Me
+- 🔭 I’m currently working on cool projects
+- 🌱 I’m learning *Machine Learning*
+- 👯 I’m looking to collaborate on exciting projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sri-vardhan-adiki/) | [LeetCode](https://leetcode.com/u/ADIKI-SRI-VARDHAN/) | *Email:* adikisrivardhan.2005@gmail.com
 
-🌍 Developed Projects
+---
 
-📋 [srigetsetgo.ccbp.tech] GETSEtGO
+## GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.vercel.app/?user=SRI-VARDHAN-ADIKI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saipraneeth4004">
+        <img src="https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saipraneeth4004">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRI-VARDHAN-ADIKI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+---
 
-📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=SRI-VARDHAN-ADIKI&theme=tokyonight)](https://git.io/streak-stats) 
-__________________________________
-[![SriVardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical)](https://github.com/SRI-VARDHAN-ADIKI) 
-__________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRI-VARDHAN-ADIKI&layout=compact&theme=tokyonight)](https://github.com/SRI-VARDHAN-ADIKI)  
-__________________________________
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github" alt="Tech Stack" />
+</p>
 
+---
 
-🤝 Let's Connect
-- 🔗 *[LinkedIn](https://www.linkedin.com/in/sri-vardhan-adiki/)*  
-- 🔢 *[LeetCode](https://leetcode.com/u/ADIKI-SRI-VARDHAN/)*  
-- 📧 *Email:* 2300033389csehte@gmail.com  
-- 💡 *Open to collaborations on exciting projects!
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SRI-VARDHAN-ADIKI&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SRI-VARDHAN-ADIKI&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-vardhan-adiki/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/ADIKI-SRI-VARDHAN/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:2300033389csehte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
