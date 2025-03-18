@@ -2,7 +2,7 @@
 
 ## About Me
 - 👯 I’m looking to collaborate on exciting projects
-- 🌱 I’m learning *Machine Learning*
+- 🌱 I’m learning **Machine Learning**
 - 🔭 I’m currently working on cool projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sri-vardhan-adiki/) | [LeetCode](https://leetcode.com/u/ADIKI-SRI-VARDHAN/) | *Email:* adikisrivardhan.2005@gmail.com
 
