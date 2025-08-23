@@ -47,7 +47,7 @@
 
 ## Visitor Count ##
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SRI-VARDHAN-ADIKI&style=flat-square" alt="ProfileViews" />
+  <img src="https://komarev.com/ghpvc/?username=SRI-VARDHAN-ADIKI&style=flat-square" alt="ProfileViewsS" />
 </p>
 
 ---
