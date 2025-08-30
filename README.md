@@ -1,4 +1,4 @@
-# Hi, I'm Sri Vardhan Adiki 👋
+# Hi, I'm Sri Vardhan Adiki 👋😁
 
 ## About Me ##########
 - 🤝 I’m looking to collaborate on exciting projects
