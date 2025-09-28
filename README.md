@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://git.io/streak-stats">
+      <a href="https://git.io/streak-status">
         <img src="https://github-readme-streak-stats.vercel.app/?user=SRI-VARDHAN-ADIKI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
