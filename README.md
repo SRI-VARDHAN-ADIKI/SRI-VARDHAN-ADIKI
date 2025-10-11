@@ -1,6 +1,6 @@
 # Hi, I'm Sri Vardhan Adiki 👋
 
-## About Me ###########
+## About Me ############
 
 - 🤝 I’m looking to collaborate on exciting projects
 - 🌱 I’m learning **Machine Learning**
