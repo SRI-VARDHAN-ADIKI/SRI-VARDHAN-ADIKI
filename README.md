@@ -4,8 +4,8 @@
 
 - 🤝 I’m looking to collaborate on exciting projects.
 - 🌱 I’m learning **Machine Learning**
-- 🔭 I’m currently working on cool projects.**
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/sri-vardhan-adiki/) | [LeetCode](https://leetcode.com/u/ADIKI-SRI-VARDHAN/) | *Email:* adikisrivardhan.2005@gmail.com
+- 🔭 **I’m currently working on cool projects.**
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/sri-vardhan-adiki/) | [LeetCode](https://leetcode.com/u/ADIKI-SRI-VARDHAN/) | *Email:* 2300033389csehte@gmail.com
 
 ----
 
