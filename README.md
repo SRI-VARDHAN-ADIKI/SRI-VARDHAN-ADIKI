@@ -18,12 +18,12 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/saipraneeth4004">
+      <a href="https://github.com/SRI-VARDHAN-ADIKI">
         <img src="https://github-readme-stats.vercel.app/api?username=SRI-VARDHAN-ADIKI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/saipraneeth4004">
+      <a href="https://github.com/SRI-VARDHAN-ADIKI">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRI-VARDHAN-ADIKI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
     </td>
@@ -34,7 +34,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github,php" alt="Tech Stack" />
 </p>
 
 ---
